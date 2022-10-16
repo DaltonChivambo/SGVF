@@ -1,27 +1,27 @@
 # SGVF
-Sistema de gerencimento de para Vendas de uma ferragem.
+Hardware sales management system.
 
-## Ferramentas usadas no projecto
-  * Linguagem de Programação: Java (JDK 11)
-  * Gerenciador de projectos: Maven
+## Tools used in the project
+  * Programming Language: Java (JDK 11)
+  * Project Manager: Maven
 
-## Interface gráfica usada
+## Graphical interface used
  ### Java Swing
-  * Tela Home
+  * Home screen
      <p>
        <a href="https://github.com/DaltonChivambo/SGVF/blob/main/SGVF/Print%20Screen%20das%20Telas/Admin%20-%20Home.jpeg">
          <img width="41%" height="30%" src="https://github.com/DaltonChivambo/SGVF/blob/main/SGVF/Print%20Screen%20das%20Telas/Admin%20-%20Home.jpeg" />
        </a>
      </p>  
      
-  * Tela Adicionar
+  * Add screen
      <p>
        <a href="https://github.com/DaltonChivambo/SGVF/blob/main/SGVF/Print%20Screen%20das%20Telas/Admin%20-%20Adicionar.jpeg">
          <img width="41%" height="30%" src="https://github.com/DaltonChivambo/SGVF/blob/main/SGVF/Print%20Screen%20das%20Telas/Admin%20-%20Adicionar.jpeg" />
        </a>
      </p>
      
-  * Tela de Login
+  * Login screen
      <p>
      <a href="https://github.com/DaltonChivambo/SGVF/blob/main/SGVF/Print%20Screen%20das%20Telas/Tela%20Login.jpeg">
        <img width="41%" height="30%" src="https://github.com/DaltonChivambo/SGVF/blob/main/SGVF/Print%20Screen%20das%20Telas/Tela%20Login.jpeg" />
@@ -29,7 +29,7 @@ Sistema de gerencimento de para Vendas de uma ferragem.
    </p>
 
   
-# Sistema de Cores usadas
+# System of colors used
  - Class Color (RGB)
- - Cores definidas do java
+ - Defined java colors
 
